@@ -52,6 +52,8 @@ void loop() {
 ### Тесты
 Дребезг, клик, двойной клик, долгое нажатие, повтор, обработчики, переполнение `millis()` проверены без железа: `extras/test`.
 
+Подробное руководство: [docs/WIKI.md](docs/WIKI.md).
+
 ---
 
 ## Қазақша
@@ -88,6 +90,8 @@ void loop() {
 ### Мысалдар
 `Basic`, `ClickLongDouble`, `Callbacks`, `Counter`, `TwoButtons`, `Diagnose`.
 
+Толық нұсқаулық: [docs/WIKI.md](docs/WIKI.md).
+
 ---
 
 ## English
@@ -123,6 +127,8 @@ void loop() {
 
 ### Examples
 `Basic`, `ClickLongDouble`, `Callbacks`, `Counter`, `TwoButtons`, `Diagnose`.
+
+Full guide: [docs/WIKI.md](docs/WIKI.md).
 
 ### License
 MIT, Alash Electronics.
