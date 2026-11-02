@@ -1,5 +1,9 @@
-// AlashButton: обработчики. Вы пишете функции, библиотека вызывает их сама.
-// Нужно лишь вызывать button.update() в loop().
+// [ru] AlashButton: обработчики. Вы пишете функции, библиотека вызывает их сама.
+//      Нужно лишь вызывать button.update() в loop().
+// [kk] AlashButton: өңдеушілер. Сіз функциялар жазасыз, кітапхана оларды өзі шақырады.
+//      loop() ішінде тек button.update() шақыру жеткілікті.
+// [en] AlashButton: handlers. You write functions, the library calls them itself.
+//      You only need to call button.update() in loop().
 #include <AlashButton.h>
 
 AlashButton button(2);

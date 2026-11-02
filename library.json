@@ -1,6 +1,6 @@
 {
   "name": "AlashButton",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy button library: debounce, click, double click, long press, hold-repeat, non-blocking, clear tips (ru/kk/en)",
   "keywords": "button, debounce, click, double click, long press, switch, input",
   "repository": { "type": "git", "url": "https://github.com/Alash-electronics/AlashButton" },

@@ -1,6 +1,12 @@
-// AlashButton: одна кнопка, три действия: клик, двойной клик и долгое нажатие.
-// Для двойного клика включите setDoubleClickMs(): тогда одиночный клик придёт
-// с небольшой задержкой (библиотека ждёт, не будет ли второго).
+// [ru] AlashButton: одна кнопка, три действия: клик, двойной клик и долгое нажатие.
+//      Для двойного клика включите setDoubleClickMs(): тогда одиночный клик придёт
+//      с небольшой задержкой (библиотека ждёт, не будет ли второго).
+// [kk] AlashButton: бір батырма, үш әрекет: басу, қос басу және ұзақ басу.
+//      Қос басу үшін setDoubleClickMs() қосыңыз: сонда жеке басу
+//      шамалы кідіріспен келеді (кітапхана екіншісі болмай ма деп күтеді).
+// [en] AlashButton: one button, three actions: click, double click and long press.
+//      For a double click enable setDoubleClickMs(): then a single click arrives
+//      with a small delay (the library waits to see whether a second one follows).
 #include <AlashButton.h>
 
 AlashButton button(2);
